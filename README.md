@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on developing a logistic regression model to predict the presence of various contaminants in public water systems. 
 Our aim is to enhance the effectiveness of water safety measures and compliance with the Safe Drinking Water Act by leveraging data collected under the Fifth Unregulated Contaminant Monitoring Rule.
-The contaminants are primarily PFAs, for which the U.S. government has also allocated an additional $1 billion to states for public water testing specifically to look at the “cancer-causing chemicals” that occur in water.
+The contaminants are primarily PFAs or 'forever chemicals', for which the U.S. government has also allocated an additional $1 billion to states for public water testing specifically to look at the “cancer-causing chemicals” that occur in water.
 
 ## Problem Statement
 Ensuring water quality in public water systems is a complex and resource-intensive task governed by stringent regulations such as the Safe Drinking Water Act. 
